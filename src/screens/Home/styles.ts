@@ -20,7 +20,7 @@ export const styles = StyleSheet.create({
   input: {
     flex: 1,
     backgroundColor: '#1F1E25',
-    color: '#FFFF',
+    color: '#FFF',
     height: 56,
     borderRadius: 5,
     fontSize: 16,
@@ -37,7 +37,7 @@ export const styles = StyleSheet.create({
     marginLeft: 10
   },
   buttonText: {
-    color: '#FFFF',
+    color: '#FFF',
     fontSize: 20
   },
   form: {

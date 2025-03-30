@@ -1,9 +1,9 @@
 import { Text, View, TextInput, TouchableOpacity } from "react-native";
 import { styles } from './styles'
+import { Participant } from "@/src/components/Participant";
 
 export function Home() {
   function handleparticipantAdd() {
-    console.log("Show de bola");
   }
 
   return (
@@ -22,6 +22,9 @@ export function Home() {
         </TouchableOpacity>
       </View>
 
+      <Participant />
+      <Participant />
+      <Participant />
     </View>
   );
 }
