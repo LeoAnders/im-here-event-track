@@ -7,7 +7,6 @@ type Props = {
 }
 
 export function Participant({ name, onRemove }: Props) {
-
   return (
     <View style={styles.container} >
       <Text style={styles.name}>
