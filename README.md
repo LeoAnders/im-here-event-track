@@ -1,8 +1,8 @@
-# I'm Here - Event Tracker (React Native)
+## I'm Here - Event Tracker (React Native)
 
 A mobile application built with React Native to streamline and manage participant attendance at events such as lectures, workshops, and conferences
 
-## Get started
+### Get started
 
 1. Install dependencies
 
